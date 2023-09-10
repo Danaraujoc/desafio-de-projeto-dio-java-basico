@@ -1,6 +1,6 @@
 # desafio-de-projeto-dio-java-basico
 
-Repositório do Desáfio de Projeto Dio Java Básico onde foi desenvolvido um código com base desafio sugerido pela expert Gleyson Sampaio seguindo a sintaxe abaixo.
+Repositório do Desáfio de Projeto Dio Java Básico onde foi desenvolvido um código com base no desafio sugerido pela expert Gleyson Sampaio seguindo a sintaxe abaixo.
 
 ## 📚Material de Apoio
 
